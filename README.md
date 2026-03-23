@@ -11,7 +11,7 @@
 • Information Systems Student at UFSM • Focused on software development • Robotics enthusiast • Passionate about game development
 </p>
 
-## About me
+## About Me
 
 I am a curious and detail-oriented developer, focused on **Cyber ​​Medicine**, **Cyber ​​Security**, **Digital Law**, **Robotics**, **Artificial Intelligence**, **Technology in Education** and **Game Development**.  
 I like working on projects that combine creativity and technology, always looking for clean, sustainable, automated and impactful solutions.  
@@ -28,6 +28,8 @@ I like working on projects that combine creativity and technology, always lookin
 
 ---
 
+##  Connect With Me
+
 <p align="center">
   <a href="https://www.instagram.com/weslley_hbm/">
     <img src="https://img.shields.io/badge/@weslley_hbm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -39,19 +41,32 @@ I like working on projects that combine creativity and technology, always lookin
 
 ---
 
+## Technologies & Tools
 
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge&logo=prolog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 ---
 
-##  Contributions
+##  Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+##  GitHub Stats
 
 <div align="center"><br>
   <a href="https://github.com/WeslleyHBM">
@@ -78,6 +93,8 @@ I like working on projects that combine creativity and technology, always lookin
 -->
 
 ---
+
+## Snake Commits
 
 <p align="center">
   <img src="https://github.com/WeslleyHBM/WeslleyHBM/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
