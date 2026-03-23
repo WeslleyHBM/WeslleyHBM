@@ -20,6 +20,24 @@ I like working on projects that combine creativity and technology, always lookin
 - **Práxis** — Popular Education Collective
 - **RAS-IEEE UFSM** — Robotics and Automation Society (IEEE Student Chapter)
 
+---
+
+<div align="center">
+  <img src="https://github.com/WeslleyHBM/Assets/blob/main/gifs/banner.gif" width="100%">
+</div>
+
+---
+
+<p align="center">
+  <a href="https://www.instagram.com/weslley_hbm/">
+    <img src="https://img.shields.io/badge/@weslley_hbm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/weslley-menezes/">
+    <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 
 ## 🛠️ Tecnologias
