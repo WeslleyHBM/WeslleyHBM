@@ -6,18 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: WeslleyMenezes
+          github_user_name: WeslleyHBM
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
