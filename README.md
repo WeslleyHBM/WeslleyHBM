@@ -76,3 +76,9 @@ I like working on projects that combine creativity and technology, always lookin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WeslleyMenezes&theme=dark" alt="Productive Time"/>
 </p>
 -->
+
+---
+
+<p align="center">
+  <img src="https://github.com/WeslleyMenezes/WeslleyMenezes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
