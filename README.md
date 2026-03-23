@@ -1,8 +1,26 @@
-## Hello World, i am Weslley Menezes. 
+<h1 align="center">Hi there  I'm Weslley Menezes</h1>
 
-- 🌱 Atualmente estou cursando o curso de Sistemas de Informação | UFSM
-- 🚀 Focado em desenvolvimento de software e Robótica
-- 📚 Aprendendo: C, Python, Java
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil;Sempre+aprendendo+programação"/>
+</p>
+
+---
+<p align="center">
+• Information Systems Student at UFSM • Focused on software development • Robotics enthusiast • Passionate about game development
+</p>
+
+## About me
+
+I am a curious and detail-oriented developer, focused on **Cyber ​​Medicine**, **Cyber ​​Security**, **Digital Law**, **Robotics**, **Artificial Intelligence**, **Technology in Education** and **Game Development**.  
+I like working on projects that combine creativity and technology, always looking for clean, sustainable, automated and impactful solutions.  
+
+ At **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
+- **Práxis** — Popular Education Collective
+- **RAS-IEEE UFSM** — Robotics and Automation Society (IEEE Student Chapter)
+
+
 
 ## 🛠️ Tecnologias
 
@@ -13,11 +31,8 @@
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
----
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil;Sempre+aprendendo+programação"/>
 
----
 
 <div>
   <a href="https://github.com/WeslleyHBM">
