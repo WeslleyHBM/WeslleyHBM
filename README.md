@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello World, i am Weslley Menezes. 
 
-<!--
-**WeslleyHBM/WeslleyHBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou cursando o curso de Sistemas de Informação | UFSM
+- 🚀 Focado em desenvolvimento de software e Robótica
+- 📚 Aprendendo: C, Python, Java
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+</p>
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil;Sempre+aprendendo+programação"/>
+
+---
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleyHBM&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyHBM&layout=compact&theme=dark"/>
+</div>
