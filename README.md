@@ -49,12 +49,30 @@ I like working on projects that combine creativity and technology, always lookin
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
+---
 
+##  Contributions
 
-
-<div>
+<div align="center"><br>
   <a href="https://github.com/WeslleyHBM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleyHBM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyHBM&layout=compact&langs_count=16&theme=dark"/>
+  
+  <br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyHBM&layout=compact&langs_count=16&theme=dark"/><br>
   </a>
 </div>
+
+<p align="center">
+  <!-- Linha (streaks) -->
+  <img src="https://streak-stats.demolab.com?user=WeslleyMenezes&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<!--
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeslleyMenezes&theme=dark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WeslleyMenezes&theme=dark" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WeslleyMenezes&theme=dark" alt="Productive Time"/>
+</p>
+-->
