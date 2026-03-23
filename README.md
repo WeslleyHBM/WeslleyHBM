@@ -80,5 +80,5 @@ I like working on projects that combine creativity and technology, always lookin
 ---
 
 <p align="center">
-  <img src="https://github.com/WeslleyMenezes/WeslleyMenezes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/WeslleyHBM/WeslleyHBM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
